@@ -19,7 +19,7 @@
 Clone the repository
 
 ```bash
-https://github.com/Debtirth/End_to_End_wine.git
+https://github.com/Debtirth/EndToEnd_wineQualityPrediction
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
